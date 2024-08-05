@@ -8,7 +8,7 @@
   practical experience in cutting-edge web development technologies.
 </h3>
 
-- 🌱 I’m currently learning **Next.js, Algorithms, DevOps**
+- 🌱 I’m currently learning **Next.js, DevOps and Algorithms**
 - 👨‍💻 Check out my portfolio: [https://vanshsharma880.github.io/Portfolio_Website/](https://vanshsharma880.github.io/Portfolio_Website/)
 - 💬 Ask me about **ReactJS, JavaScript, SQL, Java**
 - 📫 How to reach me: **svansh880@gmail.com**
