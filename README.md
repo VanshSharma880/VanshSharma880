@@ -1,0 +1,53 @@
+<h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
+<h3 align="center">
+  Passionate <strong>MERN Stack Developer</strong> | Leveraging the power of 
+  <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React</strong>, and <strong>Node.js</strong> 
+  to build dynamic, high-performance web applications. 
+  <br><br>
+  🎓 <strong>MCA Post-Graduate (2024)</strong> | Equipped with a strong foundation in computer science and 
+  practical experience in cutting-edge web development technologies.
+</h3>
+
+- 🌱 I’m currently learning **Next.js, Algorithms, DevOps**
+- 👨‍💻 Check out my portfolio: [https://vanshsharma880.github.io/Portfolio_Website/](https://vanshsharma880.github.io/Portfolio_Website/)
+- 💬 Ask me about **ReactJS, JavaScript, SQL, Java**
+- 📫 How to reach me: **svansh880@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuyZS7OOWj63Z7DBEryrB-b3BioaFqq4/view?usp=sharing)
+
+## 🛠️ **Skills**
+
+- **Frontend**: React, JavaScript, Redux, Tailwind CSS, TypeScript
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Vite, Axios, React Query , VS code
+- **Development Focus**: E-commerce solutions, responsive web design, user-centric interfaces
+
+## 📈 **Experience**
+
+- **Web Developer Intern** at [Vionsys IT Solutions India Pvt. Ltd.](#) - Gained hands-on experience in web development, working on real-world projects and collaborating with a talented team.
+
+## 📚 **Education**
+
+- **MCA** - Master of Computer Applications (2024)
+- **BCA** - Bachelor of Computer Applications (2022)
+
+## 💬 **Let's Build Something Great Together!**
+
+Feel free to reach out if you have any questions, collaborations, or opportunities. I’m always excited to connect with fellow developers and explore new projects!
+
+## 🌐 **Languages and Tools**
+
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="nextjs" width="40" height="30"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
