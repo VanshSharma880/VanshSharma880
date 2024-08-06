@@ -25,6 +25,28 @@
 
 - **Web Developer Intern** at [Vionsys IT Solutions India Pvt. Ltd.](#) - Gained hands-on experience in web development, working on real-world projects and collaborating with a talented team.
 
+  
+## Projects
+
+### 🍔 Food Ordering MERN Vite
+A modern food ordering app using MERN stack and Vite for fast development. This project features a modern, responsive UI and allows users to browse and order from various food options.
+- **Tech Stack**: React, Node.js,MongoDB, Express, Vite
+- **🌟 Live Demo**: [food-ordering-app.example.com](http://food-ordering-app.example.com)
+
+### 🛒 JSON Product Data Fetch in React
+Fetch and display product data from JSON in a React app.
+- **Tech Stack**: React
+- **🌟 Live Demo**: [product-data-fetch.example.com](http://product-data-fetch.example.com)
+
+### 🌍 Travel and Tourism Java Based
+Java app for managing travel and tourism information.
+- **Tech Stack**: Java , JSP, JDBC
+
+
+### ✅ To-Do List MERN Stack
+A to-do list app built with MERN stack for task management.
+- **Tech Stack**: MongoDB, Express, React, Node.js
+
 ## 📚 **Education**
 
 - **MCA** - Master of Computer Applications (2024)
