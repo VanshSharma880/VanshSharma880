@@ -14,19 +14,19 @@
 - 📫 How to reach me: **svansh880@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuyZS7OOWj63Z7DBEryrB-b3BioaFqq4/view?usp=sharing)
 
-## 🛠️ **Skills**
+## 🛠️ Skills
 
 - **Frontend**: React, JavaScript, Redux, Tailwind CSS, TypeScript
 - **Backend**: Node.js, Express.js, MongoDB
 - **Tools**: Vite, Axios, React Query , VS code
 - **Development Focus**: E-commerce solutions, responsive web design, user-centric interfaces
 
-## 📈 **Experience**
+## 📈 Experience
 
 - **Web Developer Intern** at [Vionsys IT Solutions India Pvt. Ltd.](#) - Gained hands-on experience in web development, working on real-world projects and collaborating with a talented team.
 
   
-## Projects
+## 👨‍💻Projects
 
 ### 🍔 Food Ordering MERN Vite
 A modern food ordering app using MERN stack and Vite for fast development. This project features a modern, responsive UI and allows users to browse and order from various food options.
@@ -47,16 +47,16 @@ Java app for managing travel and tourism information.
 A to-do list app built with MERN stack for task management.
 - **Tech Stack**: MongoDB, Express, React, Node.js
 
-## 📚 **Education**
+## 📚 Education
 
 - **MCA** - Master of Computer Applications (2024)
 - **BCA** - Bachelor of Computer Applications (2022)
 
-## 💬 **Let's Build Something Great Together!**
+## 💬 Let's Build Something Great Together!
 
 Feel free to reach out if you have any questions, collaborations, or opportunities. I’m always excited to connect with fellow developers and explore new projects!
 
-## 🌐 **Languages and Tools**
+## 🌐 Languages and Tools
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="nextjs" width="40" height="30"/> </a>
