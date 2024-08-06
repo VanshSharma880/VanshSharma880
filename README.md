@@ -28,23 +28,23 @@
   
 ## 👨‍💻Projects
 
-### 🍔 Food Ordering MERN Vite
-A modern food ordering app using MERN stack and Vite for fast development. This project features a modern, responsive UI and allows users to browse and order from various food options.
+### 🍔 Food Ordering Website - Vite
+- A modern food ordering app using MERN stack and Vite for fast development. This project features a modern, responsive UI and allows users to browse and order from various food options.
 - **Tech Stack**: React, Node.js,MongoDB, Express, Vite
 - **🌟 Live Demo**: [https://food-ordering-frontend-gbxz.onrender.com/](https://food-ordering-frontend-gbxz.onrender.com/)
 
-### 🛒 JSON Product Data Fetch in React
-Fetch and display product data from JSON in a React app.
-- **Tech Stack**: React
+### 🛒 JSON Product Data in React UI
+- Fetch and display product data from JSON in a React app.
+- **Tech Stack**: React , JavaScript, React-Query, Tailwind CSS
 - **🌟 Live Demo**: [https://socon-assignment.vercel.app/](https://socon-assignment.vercel.app/)
 
-### 🌍 Travel and Tourism Java Based
-Java app for managing travel and tourism information.
+### 🌍 Travel and Tourism Java Application
+- Java app for managing travel and tourism information.
 - **Tech Stack**: Java , JSP, JDBC
 
 
-### ✅ To-Do List MERN Stack
-A to-do list app built with MERN stack for task management.
+### ✅ To-Do List MERN Stack App
+- A to-do list app built with MERN stack for task management.
 - **Tech Stack**: MongoDB, Express, React, Node.js
 
 ## 📚 Education
