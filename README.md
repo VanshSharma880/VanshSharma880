@@ -42,6 +42,10 @@ Fetch and display product data from JSON in a React app.
 Java app for managing travel and tourism information.
 - **Tech Stack**: Java , JSP, JDBC
 
+### 🎮 React Quiz Application
+A basic quiz application built with React this application features multiple-choice questions, immediate feedback on answers. The design is responsive.
+- **Tech Stack**: React, JavaScript, HTML5, CSS3
+- **🌟 Live Demo**: [https://react-quizv.vercel.app/](https://react-quizv.vercel.app/)
 
 ### ✅ To-Do List MERN Stack App
 A to-do list app built with MERN stack for task management.
