@@ -30,13 +30,18 @@
 
 ### 🍔 Food Ordering Website - Vite
 A modern food ordering app using MERN stack and Vite for fast development. This project features a modern, responsive UI and allows users to browse and order from various food options.
-- **Tech Stack**: React, Node.js,MongoDB, Express, Vite
+- **Tech Stack**: React, Node.js, MongoDB, Express, Vite+React
 - **🌟 Live Demo**: [https://food-ordering-frontend-gbxz.onrender.com/](https://food-ordering-frontend-gbxz.onrender.com/)
 
 ### 🛒 JSON Product Data in React UI
 Fetch and display product data from JSON in a React app.
 - **Tech Stack**: React , JavaScript, React-Query, Tailwind CSS
 - **🌟 Live Demo**: [https://socon-assignment.vercel.app/](https://socon-assignment.vercel.app/)
+- 
+### 💼 Job Portal Web Application
+Developed a Job Portal Web Application where recruiters can post jobs and view applicants, while candidates can apply to jobs and submit resumes, creating a seamless recruitment experience. Focused on creating a user-friendly platform that enhances both candidate and recruiter experiences.
+- **Tech Stack**: React, Node.js, MongoDB, Express, Vite+React
+- **🌟 Live Demo**: [https://job-portal-frontend-rho.vercel.app/](https://job-portal-frontend-rho.vercel.app/)
 
 ### 🌍 Travel and Tourism Java Application
 Java app for managing travel and tourism information.
