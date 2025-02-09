@@ -9,7 +9,7 @@
 </h3>
 
 - 🌱 I’m currently learning **Next.js, DevOps and Algorithms**
-- 👨‍💻 Check out my portfolio: [https://vanshsharma880.github.io/MyPortfolioWebsite/](https://vanshsharma880.github.io/MyPortfolioWebsite/)
+- 👨‍💻 Check out my portfolio: [https://vanshsharma-portfolioapp.vercel.app](https://vanshsharma-portfolioapp.vercel.app/)
 - 💬 Ask me about **ReactJS, JavaScript, SQL, Java**
 - 📫 How to reach me: **svansh880@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuyZS7OOWj63Z7DBEryrB-b3BioaFqq4/view?usp=sharing)
