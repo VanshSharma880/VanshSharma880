@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Next.js, DevOps and Algorithms**
 - 👨‍💻 Check out my portfolio: [https://vanshsharma-portfolioapp.vercel.app](https://vanshsharma-portfolioapp.vercel.app/)
 - 💬 Ask me about **ReactJS, JavaScript, SQL, Java**
-- 📫 How to reach me: **svansh880@gmail.com**
+- 📫 How to reach me: **vanshsharma9511@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuyZS7OOWj63Z7DBEryrB-b3BioaFqq4/view?usp=sharing)
 
 ## 🛠️ Skills
@@ -23,8 +23,31 @@
 
 ## 📈 Experience
 
-- **Web Developer Intern** at [Vionsys IT Solutions India Pvt. Ltd.](#) - Gained hands-on experience in web development, working on real-world projects and collaborating with a talented team.
+### 🔹 Software Engineer  
+**CentraLogic**  
+*May 2025 – Present*  
+- Developing enterprise-level applications with a focus on performance and security.
+- Involved in architectural planning and system optimization.
+- Collaborating in Agile environments to deliver robust software solutions.
 
+---
+
+### 🔹 Software Engineer  
+**Vionsys IT Solutions India Pvt. Ltd.**  
+*Aug 2024 – Apr 2025* 
+- Contributed to real-world web development projects.
+- Built scalable web apps using modern frameworks.
+- Integrated RESTful APIs and managed version control with Git.
+
+---
+
+### 🔹 Web Developer Intern  
+**Vionsys IT Solutions India Pvt. Ltd.**  
+*Apr 2024 – Aug 2024*  
+- Worked on front-end technologies like HTML, CSS, and JavaScript.
+- Collaborated with a team to debug and enhance web applications.
+
+---
   
 ## 👨‍💻Projects
 
