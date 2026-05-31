@@ -10,14 +10,14 @@
 
 - 🌱 I’m currently learning **Next.js, DevOps and Algorithms**
 - 👨‍💻 Check out my portfolio: [https://vanshsharma-portfolioapp.vercel.app](https://vanshsharma-portfolioapp.vercel.app/)
-- 💬 Ask me about **ReactJS, JavaScript, SQL, Java**
-- 📫 How to reach me: **vanshsharma9511@gmail.com**
+- 💬 Ask me about **ReactJS, NodeJS, JavaScript, SQL, Java**
+- 📫 How to reach me: **svansh880@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuyZS7OOWj63Z7DBEryrB-b3BioaFqq4/view?usp=sharing)
 
 ## 🛠️ Skills
 
 - **Frontend**: React, JavaScript, Redux, Tailwind CSS, TypeScript
-- **Backend**: Node.js, Express.js, MongoDB
+- **Backend**: Node.js, Express.js, MongoDB, GraphQL
 - **Tools**: Vite, Axios, React Query , VS code
 - **Development Focus**: E-commerce solutions, responsive web design, user-centric interfaces
 
